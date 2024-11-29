@@ -12,10 +12,16 @@ public class EmployeeDetails { // body or block of the class
 		System.out.println("employee id: 1122");
 	}
 	
-	// needed methods
+	private void empAdd() {
+		System.out.println("address: chennai");
+	}
 	private void empMobile() {
 		System.out.println("mobile: 7200983432");
 	}
+	// needed methods
+//<<<<<<< HEAD	
+//======
+//>>>>>>> 94f5dba5b8e9e0728279383792cc79ed29f407f
 	
 	public static void main(String[] args) {
 		
