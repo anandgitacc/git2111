@@ -13,6 +13,9 @@ public class EmployeeDetails { // body or block of the class
 	}
 	
 	// needed methods
+	private void empAdd() {
+		System.out.println("address: chennai");
+	}
 	
 	public static void main(String[] args) {
 		
