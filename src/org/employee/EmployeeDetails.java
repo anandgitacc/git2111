@@ -13,6 +13,9 @@ public class EmployeeDetails { // body or block of the class
 	}
 	
 	// needed methods
+	private void empMobile() {
+		System.out.println("mobile: 7200983432");
+	}
 	
 	public static void main(String[] args) {
 		
